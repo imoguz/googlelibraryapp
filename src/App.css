@@ -1,0 +1,8 @@
+.icon a {
+  text-decoration: none;
+  color: black;
+  &:hover {
+    scale: 1.2;
+    color: red;
+  }
+}
