@@ -38,7 +38,7 @@ Contributions to this project are welcome! Please feel free to submit pull reque
 
 You can access the live demo of the project using the following link:
 
-[Live Demo](https://googlebook-imoguz.vercel.app/)
+[Live Demo](https://googlelibraryapp-imoguz.vercel.app/)
 
 ## Contact
 
